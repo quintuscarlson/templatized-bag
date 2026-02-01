@@ -1,4 +1,4 @@
-# Templatized Bag (C++)
+# Generic Multiset Library (C++)
 
 ## Overview
 This project implements a **templatized dynamic array Bag (multiset)** in C++:
